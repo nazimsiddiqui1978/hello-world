@@ -1,6 +1,7 @@
 def hello_world():
-    return " hello , world"
+    return "hello, world"
 
-
-   if_name_=="_main_":
-     print(hello_world())
+if __name__ == "__main__":
+    print(hello_world() + " from Mohd Nazim siddiqui")
+def hello_world():
+    return "hello, world"
